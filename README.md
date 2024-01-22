@@ -1,8 +1,8 @@
 ### Hi there 👋
-# Hyunsu Kang (KangCoder)
+# My Name is Kim Kang Min (adorahelen)
 
 ## Profile
-- Bachelor of Computer Science Engineering, Konkuk University (2018.03~2024.02)
+- Bachelor of Computer Science Engineering, DAEGU CATHOLIC UNIVERSITY (~2025.02)
 - Server developer, Konkuk Univ. Student Dev 1st(건국대학교 공식 학생개발팀 1기) (2022.07)
 
 <div align="center">
