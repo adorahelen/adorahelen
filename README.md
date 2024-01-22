@@ -19,9 +19,11 @@
 </br>
 
 
+## Github Status:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adorahelen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen)](https://github.com/adorahelen/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen)
+</div>
+</br>
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
