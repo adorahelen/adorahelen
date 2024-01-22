@@ -19,10 +19,8 @@
 </br>
 
 
-## Github Status:
+## Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen)
-</div>
-</br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
