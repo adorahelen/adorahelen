@@ -24,7 +24,7 @@
 
 <div align="center/right/left">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://adorahelen.wtf/api/generate_badge?boj={adorahelen})](https://solved.ac/{adorahelen})
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
