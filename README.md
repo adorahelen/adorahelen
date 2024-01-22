@@ -2,7 +2,7 @@
 
 # "Kim Kang Min" (adorahelen)
 
-## Profile
+## Profile : 
 - Bachelor of Computer Science Engineering, DAEGU CATHOLIC UNIVERSITY (~2025.02)
 - Bachelor of Nursing, (2021.03 ~ 2023.02)
 
@@ -11,7 +11,7 @@
 </div>
 </br>
   
-## My Tech Stack
+## My Tech Stack :
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
