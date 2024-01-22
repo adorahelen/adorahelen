@@ -22,9 +22,8 @@
 ## Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen)
 
-<div align="center/right/left">
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={adorahelen})](https://solved.ac/{adorahelen})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle}:adorahelen)](https://solved.ac/{handle}:adorahelen)
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
