@@ -27,7 +27,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=adorahelen)](https://solved.ac/adorahelen)
 
-
+</div>
+</br>
 ## Plan :
 1. stay (개발자 커리어)  [ ex: 대기업 이직 ] 
 벡엔드로 시작해 경력을 쌓으면 나아갈 수있는 선택지가 많아진다. 일단은 * DevOps
