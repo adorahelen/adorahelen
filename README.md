@@ -3,8 +3,9 @@
 # "Kim Kang Min" (adorahelen)
 
 ## Profile : 
-- Bachelor of Computer Science Engineering, DAEGU CATHOLIC UNIVERSITY (~2025.02)
-- Bachelor of Nursing, (2021.03 ~ 2023.02)
+- Bachelor of Computer Science Engineering,
+  DAEGU CATHOLIC UNIVERSITY (~2025.02)
+
 
 <div align="center">
   <a href="mailto:adorahelenmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
@@ -31,29 +32,23 @@
 </br>
 
 ## Plan :
-1. stay (개발자 커리어)  [ ex: 대기업 이직 ] 
-벡엔드로 시작해 경력을 쌓으면 나아갈 수있는 선택지가 많아진다. 일단은 * DevOps
-(클라우드, 인프라, 서버, 등)
+1. 개발자로 성장하기 (DevOps)
+(클라우드, 인프라, 서버)
 - 퍼포먼스 향상에 집중 
 - 백준, 프로그래머스 문제풀이
 
-2. 대학원 (인공지능 & 빅데이터 전환)
-학위를 갖지않고 인공지능이나/빅데이터로 나아가는 경우도 존재하지만 보통은 석사졸
- * 벡엔드 지식은 빅데이터를 위한 파이프라인   * 인공지능 서비스를 위한 초석이 되어줌 
-- 갈꺼면 취업후 수학/통계 공부 병행
+2. 대학원 (인공지능&빅데이터)
+- 취업후 수학/통계 공부 병행
 - 캐글, 논문 위주
 
-3. 공무원 (정보 보안 || else )
-경력경쟁 채용이 늘어나는 추세이며,
-목표로 하는 사이버수사대의 경우 4년이상의 경력이 필요하지만 전부 호봉으로 인정 됨
- * 군경력을 포함하면 경장(8급) 7호봉 시작
-- 갈꺼면 취직후 보안기사 공부 병행
+3. 공무원 (사이버수사대)
+- 취업후 정보보안 공부 병행
 - 자격증, CTF 문제풀이, 수상경력 위주
 
+: 벡엔드=> (데브옵스|| 인공지능|| 사수대​)
 
-결론: 벡엔드=> 데브옵스|| 인공지능|| 사수대​
 To do.list
-< 1학기 (+졸업 필수 과목 충족) >
+< 1학기>
 1. 졸업작품 완성 == 포폴 1개
 2. 정보처리기사 (사이버수사대, 졸업 요건)
 
@@ -61,16 +56,13 @@ To do.list
 1. 벡엔드 시작
 2. 백준/프로그래머스 
 
-< 2학기 (+졸업학점 충족) >
+<2학기>
 1. 벡엔드 포폴 완성== 포폴 2개 
 (범죄 피해 아동 구제 or 간호사를 위한)
 2. 백준/프로그래머스
 
 <겨울방학>
-: 졸업, 코테 골드 수준, 포폴2개, 정처기 자격증
-
-
-
+: "졸업", 백준 골드, 포폴2개, 정처기
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
