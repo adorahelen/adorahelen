@@ -49,20 +49,19 @@ C. 공무원 (사이버수사대)
 
 ## To do list :
 1학기
-- 졸업작품 완성 
-- 정보처리기사 
+- 졸업작품 포트폴리오
+- 정보처리기사 취득
 
 여름방학
 - 벡엔드 시작
+- 백준 "골드"
 
 2학기
-- 벡엔드 포폴 
+- 벡엔드 포트폴리오
+- 취업준비
 
-겨울방학
-- 컴퓨터 공학사
-- 백준 골드 
-- 포트폴리오 2개
-- 정보처리기사
+겨울방학 
+- 취업성공 
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
