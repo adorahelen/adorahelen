@@ -59,15 +59,15 @@ C. 공무원 (사이버수사대)
   (2024-02-21 필기합격)
 
 여름방학
-- 벡엔드 시작
+- 백엔드 시작 (2024-03-07)
 - 백준 "골드"
 
 2학기
-- 벡엔드 포트폴리오
-- 취업준비
+- 백엔드 포트폴리오 준비
+- 취업 준비
 
 겨울방학 
-- 취업성공 
+- 취업 성공 
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
