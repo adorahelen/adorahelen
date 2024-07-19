@@ -22,10 +22,6 @@
 
 ## Status :
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen)
-
-
 </div>
 </br>
 
