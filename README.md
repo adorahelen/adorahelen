@@ -49,20 +49,13 @@ C. 사이버수사대 or 검찰수사관
 </div>
 </br>
 
-## To do list :
+## Do :
 
 여름방학
 - 프로그래머스 부트캠프(07.15~)
-- 웹사이트 호스팅(AWS 덤프)
-- 미니서버 가동 (AWS 없이, 공유기 구매)
 
 2학기(조기졸업: 확정)
 - 프로그래머스 부트캠프(~12.13)
-- 포트폴리오 완성
-- 코테도 완성
-
-겨울방학 
-- 취업 성공 
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
