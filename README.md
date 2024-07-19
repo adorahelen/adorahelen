@@ -19,12 +19,6 @@
 </div>
 </br>
 
-
-## Status :
-<div align="center">
-</div>
-</br>
-
 ## Plan :
 A. 벡엔드 
 - 1. 언어 학습 
