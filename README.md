@@ -1,6 +1,6 @@
 
 
-# Kim KangMin (adorahelen)
+# KangMin Kim (adorahelen)
 
 ## Profile : 
 - Bachelor of Computer Science Engineering,
