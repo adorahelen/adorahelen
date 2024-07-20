@@ -7,19 +7,20 @@
   DAEGU CATHOLIC UNIVERSITY (~2025.02)
 
 
+
 <div align="center">
   <a href="mailto:adorahelenmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
 </br>
   
-## My Tech Stack :
+## Tech Stack :
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 </br>
 
-## :
+## Interest :
 A. 벡엔드 
 - 1. 언어 학습 
   2. 개발 프레임워크 학습
@@ -37,8 +38,6 @@ C. 사이버수사대 or 검찰수사관
 
 </div>
 </br>
-
-
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
