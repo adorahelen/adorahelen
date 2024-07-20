@@ -19,7 +19,7 @@
 </div>
 </br>
 
-## Plan :
+## :
 A. 벡엔드 
 - 1. 언어 학습 
   2. 개발 프레임워크 학습
@@ -38,13 +38,7 @@ C. 사이버수사대 or 검찰수사관
 </div>
 </br>
 
-## Do :
 
-여름방학
-- 프로그래머스 부트캠프(07.15~)
-
-2학기(조기졸업: 확정)
-- 프로그래머스 부트캠프(~12.13)
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
