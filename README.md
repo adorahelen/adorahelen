@@ -46,7 +46,6 @@
 
 ### Machine Learning & APIs
 ![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-00C300?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 </br>
