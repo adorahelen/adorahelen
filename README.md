@@ -1,86 +1,30 @@
-
-
 # Kangmin Kim (adorahelen)
 
-## Profile : 
-- Bachelor of Computer Science Engineering,
-  DAEGU CATHOLIC UNIVERSITY (~2025.02)
-
-
+## Profile:
+- **Bachelor of Hacking Security, Hanyang Cyber University** (2025.03 ~)
+- **Bachelor of Computer Science Engineering, Daegu Catholic University** (~2025.02)
 
 <div align="center">
-  <a href="mailto:adorahelenmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:adorahelenmin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
-</br>
-  
-
+<br/>
 
 ## Tech Stack:
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### Web Development
+![AI API](https://img.shields.io/badge/AI%20API-00C300?style=for-the-badge&logo=openai&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database Management  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)  
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)  
-
-### Security & Authentication
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth2.0](https://img.shields.io/badge/OAuth2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Deployment
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 
-### Collaboration Tools
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<br/>
 
-### Machine Learning & APIs
-![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-00C300?style=for-the-badge&logo=openai&logoColor=white)
+## Portfolio:
+- [fossilfuel.site](https://fossilfuel.site)
 
-</div>
-</br>
-
-
-## Interest :
-
-A. Backend Development
-
-	1.	Programming language learning
-	2.	Learning backend development frameworks
-	3.	Database technologies
-	4.	Cloud services
-	5.	Web security technologies
- 
-
-B. Artificial Intelligence
-
-	•	Developing services for the hearing impaired (RNN: Speech-to-Text, Text-to-Speech)
-	•	Developing services for the visually impaired (CNN: Object recognition, Navigation assistance)
-
-
-C. Cyber Investigation
-
-	•	Cyber investigation or prosecutor’s office roles
-	•	Research in criminal investigation technologies
-
-
-</div>
-</br>
-
+---
 
