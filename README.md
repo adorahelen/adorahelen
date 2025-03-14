@@ -1,36 +1,26 @@
-# Kangmin Kim (adorahelen)
-## Profile:
-- **Bachelor of Hacking Security, Hanyang Cyber University** (2025.03 ~)
-- **Bachelor of Computer Science Engineering, Daegu Catholic University** (~2025.02)
-<div align="center">
+# 김강민 (adorahelen)
+
+## 🔹 About Me
+개인정보 보호 솔루션 회사에서 연구원으로 재직 중이며, AI를 활용한 개인정보 검출 및 암호화 처리 시스템을 개발하였습니다. 
+또한, 국책 연구과제 수주 및 제안서 작업을 보조하며, 현재는 시스템 내부(DB, File) 개인정보 보안 솔루션 개발을 담당하고 있습니다.
+
   <a href="mailto:adorahelenmin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-<br/>
 
-## Tech Stack:
-![AI API](https://img.shields.io/badge/AI%20API-00C300?style=for-the-badge&logo=openai&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
-<br/>
+## 🎓 Education
+- **한양사이버대학교** 해킹보안학과 재학 (2025.03~)
+- **대구가톨릭대학교** 컴퓨터공학과 학사 졸업 (~2025.02)
 
-## Portfolio:
-- [fossilfuel.site](https://fossilfuel.site)
+---
+
+## 💼 Experience
+- **(주) 이지서티** 연구원 (2024.12~)
+
+---
+
+## 🌐 운영 중인 웹 사이트
+- **[소프트웨어학부 학과 동아리](https://fossilfuel.site)** *(화석연료)*
