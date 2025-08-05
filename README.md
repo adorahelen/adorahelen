@@ -32,14 +32,13 @@ FastAPI, Spring Boot 기반의 보안 애플리케이션을 개발하며, 웹 �
 ### ✅ **웹 크롤러 및 위험 탐지기 개발**  
 - robots.txt / sitemap.xml 자동 수집기 구현  
 - JavaScript 내 위험 키워드 탐지 기능 탑재  
-- CLI 기반 도구 및 로그 분석 버전으로 확장  
 
 ---
 
 ## 📚 Skills  
 
 - **Backend**: Java (Spring Boot), Python (FastAPI)  
-- **Frontend**: HTML/CSS/JS (React 도입 준비 중)  
+- **Frontend**: HTML/CSS/JS 
 - **DevOps & Infra**: AWS EC2, ELK Stack, Docker  
 - **Database**: PostgreSQL, MyBatis  
 - **Security & Forensics**: Web Hacking, Digital Forensics, Log Analysis, Malware Research (기초), Antivirus Engine 구조 이해  
