@@ -1,39 +1,92 @@
-## 🔹 About Me  
+# 🛡️ Security-Focused Software Engineer
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adorahelenmin@gmail.com)  
+### 👨‍💻 About Me
+I am a **Security Software Engineer** specializing in bridging the gap between **Security Research** and **System Implementation**. I have hands-on experience in building AI-based detection engines and scalable security monitoring systems.
+
+- 🔍 **Main Focus**: Privacy Protection (PII Detection), Log Analysis (ELK), and Endpoint Security.
+- 🚀 **Goal**: Building robust security solutions that handle real-world threat data at scale.
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/anne-vi-318a882b6
+---
+
+## 🛠️ Tech Stack
+
+### 🛡️ Security & Infrastructure
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ⚙️ Backend & Systems
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🧠 AI & Data Intelligence
+![NLP](https://img.shields.io/badge/NLP-5A29E4?style=for-the-badge)
+![NER](https://img.shields.io/badge/NER-8A2BE2?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 💻 Featured Projects
+
+### 🔍 AI-Based PII Detection Engine `R&D`
+> **Developing a full-stack engine for detecting personally identifiable information (PII).**
+- Built multi-channel pipelines for **Local Files, DB, and Network Packets**.
+- Implemented **NER-based NLP models** to optimize detection accuracy.
+- Designed **REST APIs** for seamless integration with enterprise systems.
+- *Key Takeaway*: Handled real-world privacy data pipelines and optimized detection performance.
+
+### 🔐 LLM Prompt & Response De-identification System
+> **Real-time PII filtering layer for LLM services.**
+- Designed a **pre/post-processing privacy filter** for LLM prompts and outputs.
+- Applied **NER + rule-based hybrid detection** for sensitive data.
+- Implemented **WebSocket-based streaming interception**.
+- *Key Takeaway*: Ensured privacy compliance in AI-driven services.
+
+### 📊 ELK-Based Security Log Analysis System
+> **End-to-end security monitoring and visualization pipeline.**
+- Built **Logstash** pipelines to ingest raw security logs.
+- Designed custom **Elasticsearch** indices for anomaly and attack pattern detection.
+- Developed **Kibana** dashboards for real-time incident response.
+
+### 🕷️ Security-Oriented Web Crawler
+> **Automated reconnaissance and threat detection tool.**
+- Scans `robots.txt` and `sitemap.xml` to map attack surfaces.
+- Detects **malicious JavaScript keywords** to identify client-side threats.
+
+### 🧠 Password Intelligence Research 
+> **Research on password generation and pattern learning for Korean users.**
+- Fine-tuned models using **RockYou + Korean password datasets**.
+- Analyzed **keyboard-based input patterns** over linguistic assumptions.
+- Evaluated limitations of **PCFG-based approaches**.
+- *Key Takeaway*: Conducted data-driven security research beyond conventional heuristics.
+
+---
+
+## 🔬 Security Research Interests
+- **EDR & Endpoint Security**
+  - User-mode process behavior monitoring
+  - PID ↔ Network connection correlation
+- **Malware Analysis**
+  - PE file structure, import table, execution flow
+- **Detection Engines**
+  - Antivirus plugin-based engine architecture
+  - Kernel ↔ User-mode interface design
+- **Privacy Engineering**
+  - PII detection & masking pipelines
+  - AI-assisted data protection systems
 
 
 ---
 
-## 💻 Projects & Research  
-
-###  **AI 기반 개인정보 검출 엔진 개발**  
-- 시스템 기반 및 네트워크 기반 개인정보 탐지 기술 비교 분석  
-- 로컬 파일/DB/패킷 기반 개인정보 검출 알고리즘 구현 및 최적화  
-- REST API 방식 개인정보 탐지 솔루션 기획 및 문서화  
-
-###  **ELK Stack 기반 로그 분석 시스템 구축**  
-- 보안 로그 수집을 위한 Logstash 연동 설정  
-- Elasticsearch 기반 공격 이벤트 인덱싱 및 Kibana 시각화 대시보드 구축  
-- 웹 크롤링 기반 위협 탐지 시스템과 연동  
-
-###  **Spring Boot 기반 웹 애플리케이션 개발**  
-- GitHub API를 활용한 커밋 분석 랭킹 대시보드 시스템 설계 및 구현  
-- PostgreSQL + MyBatis 기반 다중 게시판 시스템 개발 및 통합  
-
-###  **웹 크롤러 및 위험 탐지기 개발**  
-- robots.txt / sitemap.xml 자동 수집기 구현  
-- JavaScript 내 위험 키워드 탐지 기능 탑재  
-
----
-
-## 📚 Skills  
-
-- **Backend**: Java (Spring Boot), Python (FastAPI)  
-- **Frontend**: HTML/CSS/JS 
-- **DevOps & Infra**: AWS EC2, ELK Stack, Docker  
-- **Database**: PostgreSQL, MyBatis  
-- **Security & Forensics**: Web Hacking, Digital Forensics, Log Analysis, Malware Research (기초), Antivirus Engine 구조 이해  
-- **Tools & Collaboration**: Git, GitHub, VS Code, IntelliJ  
-
----
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=adorahelen&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
