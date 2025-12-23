@@ -5,7 +5,6 @@ I am a **Security Software Engineer** specializing in bridging the gap between *
 
 - 🔍 **Main Focus**: Privacy Protection (PII Detection), Log Analysis (ELK), and Endpoint Security.
 - 🚀 **Goal**: Building robust security solutions that handle real-world threat data at scale.
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/anne-vi-318a882b6
 ---
 
 ## 🛠️ Tech Stack
