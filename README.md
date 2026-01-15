@@ -86,6 +86,8 @@ I am a **Security Software Engineer** specializing in bridging the gap between *
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adorahelen&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adorahelen&layout=compact&theme=radical" alt="Top Languages" />
+  
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adorahelen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adorahelen&layout=compact&theme=radical)
+
 </p>
