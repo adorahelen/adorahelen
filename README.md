@@ -2,26 +2,26 @@
 
 **AI Security Engineer** · Enterprise SIEM & SOAR · `2026.02 – present`
 
-**Security Engineer** ·  DLP & Data Security · `2024.12 – 2025.08`
+**Security Engineer** · DLP & Data Security · `2024.12 – 2025.08`
 
 ---
 
 ## Featured Projects
 
-### 📡 1. Home Server SIEM 
+### 🤖 1. AI Threat Detection & Incident Analysis Stack
+- **ML Detector**
+  - Applied unsupervised learning models for flow anomaly detection and implemented real-time C2 beacon detection logic
+  - Developed a DGA domain classifier and IP risk scoring engine using statistical feature extraction
+- **LLM Analyst**
+  - Designed a LangGraph-based ReAct agent architecture to automate security monitoring workflows
+  - Built a KISA guideline and MITRE ATT&CK knowledge base in Vector DB to generate reliable Korean security reports
 
-Enterprise-grade SIEM on a single Home server using open-source only.
+### 📡 2. Home Server SIEM 
+- Designed a network analysis layer with Suricata NIDS + Zeek and built a log ingestion pipeline on Loki
+- Implemented a multi-layered defense architecture: Wazuh HIDS (MITRE ATT&CK mapping) + ModSecurity WAF (OWASP CRS) + fail2ban
+- Built a Grafana dashboard with 30+ panels — GeoIP attack world map, Top attacker IPs, WAF rule trends
 
-- Grafana (16+ panels) — SSH brute-force, Top attacker IPs, GeoIP world map, WAF rule trends
-- Access: Tailscale (Zero Trust VPN mesh)
-- Network: Suricata NIDS + Zeek → Loki + Promtail + Grafana
-- Host: UFW → fail2ban → Wazuh HIDS (MITRE ATT&CK) → Loki + Promtail + Grafana
-- Application: ModSecurity WAF (OWASP CRS) → Loki + Promtail + Grafana
-
-### 🔐 2. Security Platform 
-
-Fully Dockerized security platform — single public port, local LLM only, non-root containers, admin-approved signup.
-
-- **Privacy Shield** · **Doc Forensics** · **RAG Chat** — PII masking, forensic metadata analysis, local LLM via Ollama
-- Full observability: custom-built monitoring UI with OpenTelemetry + ClickHouse + Prometheus
----
+### 🔐 3. Self-Hosted Security Platform 
+- **Privacy Shield** — Built a PII detection and masking pipeline using spaCy NER and Korean regex (PDF/DOCX/Image)
+- **Doc Forensics** — Developed a metadata forensics engine with Apache Tika and semantic search via ChromaDB
+- **Observability** — Implemented distributed tracing with OpenTelemetry + ClickHouse + Jaeger and a custom monitoring UI
