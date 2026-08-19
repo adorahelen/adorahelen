@@ -1,12 +1,11 @@
-**Security × AI engineer.** I build SIEM, SOAR and EDR at work, then rebuild the same systems from scratch on one home server — to find out where they actually break.
+**I build security monitoring systems, then rebuild them from scratch to find out where they break.**
 
-**AI Security Engineer** · Enterprise SIEM & SOAR · `2026.02 –`
-**Security Engineer** · DLP & Data Security · `2024.12 – 2025.08`
+SIEM · SOAR · EDR professionally — and the same four layers on one home server: 10 containers, exactly 1 exposed port, a 6-stage automated response chain, 697 ATT&CK techniques mapped. Written up with the limits, not just the features.
 
-📝 [**Blog**](https://adorahelen.github.io) — the systems, and what measuring them showed
-🛰 [**siem-trinity-public**](https://github.com/adorahelen/siem-trinity-public) — self-built XDR: four layers and a SOC console on a single host
-🤖 [**ai-console-public**](https://github.com/adorahelen/ai-console-public) — on-prem LLM agent console: fixed engine, swappable domain cartridges (MIT)
+`Go` `Python` `C++` · detection engineering · on-prem LLM · digital forensics
 
 CISC-W'25 first author (paper #328) · KISTI Director's Award — Threads app forensics · JLPT N1
 
-Most of my repositories are private — happy to grant access on request.
+→ **[The systems, and what measuring them showed](https://adorahelen.github.io/work/)**
+
+Pinned below are the public editions. The rest are private — ask and I'll grant access.
